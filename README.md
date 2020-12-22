@@ -8,3 +8,7 @@
  pong paddle | SingleLinkedList | bool
  ball | _Pixel | 
  wall | _Pixel | 
+
+ ## Schema
+
+ ![schema](./img/schema.png)
